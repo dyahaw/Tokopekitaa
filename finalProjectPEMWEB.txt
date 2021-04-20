@@ -5,7 +5,5 @@
 5. Edit admin
 6. Kelola pesanan -> export data
 7. Belanja sekarang -> login dulu
-8. Button keranjang (Trying to access array offset 
-on value of type null in C:\xampp\htdocs\tokopekita\cart.php on line 13)
-
+8. Button keranjang (Trying to access array offset on value of type null in C:\xampp\htdocs\tokopekita\cart.php on line 13)
 9. Footer
